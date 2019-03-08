@@ -7,9 +7,9 @@ When using this script ---> cite original paper including the DOI
 
 Directory includes the following files:
 
-- Script   ------------------------> Script to run simulation in parallel and generate necessary data, including example dataset
-- Script to create all figures -------> Script to create all figures (both main manuscript and supplementary material)
-- Functions_3Dmodel.R ----------------> Script with necessary functions for both above mentioned scripts
+- Script   ----------------------> Script to run simulation in parallel and generate necessary data, including example dataset
+- Script to create all figures --> Script to create all figures (both main manuscript and supplementary material)
+- Functions_3Dmodel.R -----------> Script with necessary functions for both above mentioned scripts
 
 - species_data.csv --> an example dataset based on Guyana/Suriname as detailed in the manuscript
 - plotdata.csv ------> the plot metadata belonging to species_data.csv
