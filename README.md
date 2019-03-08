@@ -1,9 +1,13 @@
 # Scaling-issues-of-neutral-theory-reveal-violations-of-ecological-equivalence-for-dominant-Amazonian-
 R_scripts accompanying our Ecology Letters paper titled: "Scaling issues of neutral theory reveal violations of ecological equivalence for dominant Amazonian tree species". 
 
+Repository includes all the necessary files and scripts to recreate figures and data from the main manuscript. Scripts are based on an example dataset from Guyana/Suriname with details as specified in the main manuscript.
+
+When using this script ---> cite original paper including the DOI
+
 Directory includes the following files:
 
-- Script   ---------------------------> Script to run simulation in parallel and generate necessary data, including example dataset
+- Script   ------------------------> Script to run simulation in parallel and generate necessary data, including example dataset
 - Script to create all figures -------> Script to create all figures (both main manuscript and supplementary material)
 - Functions_3Dmodel.R ----------------> Script with necessary functions for both above mentioned scripts
 
